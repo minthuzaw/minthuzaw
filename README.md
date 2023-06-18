@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Min Thu Zaw
 - 👀 I’m interested in web development.
-- 🌱 I’m currently using Laravel and vue.js. 
+- 🌱 I’m currently using Laravel and vue.js.
 - 💼 I presently work at <a href="https://onenex.co/" target="_blank" rel="noreferrer">Onenex</a>. 
 - ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
