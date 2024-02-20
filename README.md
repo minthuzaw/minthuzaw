@@ -44,7 +44,7 @@
              width="40" height="40"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+        <img src="https://laravel.com/img/logomark.min.svg"
              alt="laravel" width="40" height="40"/>
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
