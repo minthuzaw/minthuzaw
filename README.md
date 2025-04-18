@@ -2,53 +2,54 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently using Laravel and vue.js.
 - 💼 I presently work at <a href="https://onenex.co/" target="_blank" rel="noreferrer">Onenex</a>. 
-- ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-    <a href="https://github.com/minthuzaw">
-        <img height="180em"
-             src="https://github-readme-stats-eight-theta.vercel.app/api?username=minthuzaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em"
-             src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minthuzaw&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg"
-             alt="html5" width="100" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg"
-             alt="css3" width="100" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/bootstrap.svg"
-             alt="bootstrap" width="140" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/tailwind.svg" alt="tailwind" width="140"
-             height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg"
-             alt="javascript" width="140" height="40"/>
-    </a>
-</p>
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-             alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-             width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://laravel.com/img/logomark.min.svg"
-             alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-             alt="vuejs" width="40" height="40"/>
-    </a>
-</p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minthuzaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minthuzaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" alt="adonisjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/minthuzaw/minthuzaw/output/snake.svg" alt="Snake animation" />
+###
