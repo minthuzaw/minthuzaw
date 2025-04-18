@@ -2,6 +2,17 @@
 - 💼 I presently work at <a href="https://onenex.co/" target="_blank" rel="noreferrer">Onenex</a>. 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Full Stack software developer with 3+ years experience developing code and maintaining software. Passion about Computer Sciences, innovation and technology. Proficient in HTML, CSS, Javascript, PHP Laravel, Vue3 and NodeJS. Seeking an opportunity to join an organization to grow new skills. Eager to help the community with the empowerment of IT.
+
+My job is to build REST API and create a customer-friendly front end. Communicate with teammates and support them.
+</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
