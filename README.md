@@ -64,8 +64,8 @@ My job is to build REST API and create a customer-friendly front end. Communicat
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/minthuzaw/count.svg?"  />
-</div>
+</div> -->
 
 ###
