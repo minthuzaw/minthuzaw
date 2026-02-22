@@ -1,4 +1,4 @@
-Website : <a href="https://minthuzaw.vercel.app/">Min Thu Zaw</a>
+Website : <a href="https://minthuzaw.vercel.app/" target="_blank">Min Thu Zaw</a>
 <hr>
 
 <div align="center">
