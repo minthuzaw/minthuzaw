@@ -16,8 +16,8 @@ Website : <a href="https://minthuzaw.vercel.app/" target="_blank">Min Thu Zaw</a
 </div>
 
 - 👋 Hi, I’m Min Thu Zaw
-- 💼 I presently work at <a href="https://onenex.co/" target="_blank" rel="noreferrer">Onenex</a>. 
-###
+- 💼 I presently work as freelancer.
+###  <a href="https://onenex.co/" target="_blank" rel="noreferrer">Onenex</a>. 
 
 <h2 align="left">About me</h2>
 
