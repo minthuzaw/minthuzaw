@@ -23,9 +23,24 @@ Website : <a href="https://minthuzaw.vercel.app/" target="_blank">Min Thu Zaw</a
 
 ###
 
-<p align="left">✨ Full Stack software developer with 3+ years experience developing code and maintaining software. Passion about Computer Sciences, innovation and technology. Proficient in HTML, CSS, Javascript, PHP Laravel, Vue3 and NodeJS. Seeking an opportunity to join an organization to grow new skills. Eager to help the community with the empowerment of IT.
+<p align="left">✨ 
+  Hello, my name is Min Thu Zaw. I am a Senior Full Stack Web Developer with over 4 years of experience in building, maintaining, and improving web applications.
 
-My job is to build REST API and create a customer-friendly front end. Communicate with teammates and support them.
+
+
+I have experience working with both frontend and backend technologies, including Laravel, PHP, JavaScript, TypeScript, Vue, Nuxt, React, Next.js, Node.js, NestJS, AdonisJS, SQL, Git, and GitHub. I enjoy creating reliable systems, clean user experiences, and scalable solutions that support real business needs.
+
+
+
+Throughout my career, I have had the opportunity to work at Onenex, where I contributed to software development projects, collaborated with teams, and strengthened my technical and problem-solving skills.
+
+
+
+I am passionate about learning new technologies, improving my skills, and building software that creates value for users and organizations. I am currently looking for a company that offers clear pathways for long-term career growth, where I can contribute my experience, continue learning, and grow together with the team.
+
+
+
+I am open to collaboration, new opportunities, and meaningful projects in full stack web development.
 </p>
 
 ###
